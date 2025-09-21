@@ -1,5 +1,5 @@
 streamlit
-jobspy
+git+https://github.com/jobspy-ai/jobspy.git
 pandas
 numpy
 plotly
